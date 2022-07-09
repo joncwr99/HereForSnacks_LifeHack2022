@@ -24,7 +24,7 @@ export default DonatePage = () => {
     return  (     
         <Layout style={tailwind('flex-grow')}> 
             <Layout style={tailwind('flex-row bg-white justify-center h-24')}>
-                <Text style={tailwind('flex text-center text-[#a3080c] font-bold text-2xl top-10')}> Discounts </Text> 
+                <Text style={tailwind('flex text-center text-[#a3080c] font-bold text-3xl top-10')}> Discounts </Text> 
             </Layout>
             <Layout style = {tailwind('h-14 bg-[#a3080c]')}>
                 <Autocomplete
