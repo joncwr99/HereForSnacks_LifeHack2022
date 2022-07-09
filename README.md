@@ -28,10 +28,22 @@ We plan to include more location features, such as allowing users to view a map 
 ## Photo Snapshots of CheapBites
 
 ### Login and Registration Page
+<p float="right">
+  <img src="https://github.com/joncwr99/LifeHack2022_CheapBites/blob/main/photo_snapshots/login_register/login_display.jpg" width="250" />
+  <img src="https://github.com/joncwr99/LifeHack2022_CheapBites/blob/main/photo_snapshots/login_register/register_display.jpg" width="250" />
+</p>
 
 ### Home Page 
+<p float="right">
+  <img src="https://github.com/joncwr99/LifeHack2022_CheapBites/blob/main/photo_snapshots/homepage/homepage_display.jpg" width="250" />
+  <img src="https://github.com/joncwr99/LifeHack2022_CheapBites/blob/main/photo_snapshots/homepage/homepage_info.jpg" width="250" />
+</p>
 
 ### Discount Page
+<p float="right">
+  <img src="https://github.com/joncwr99/LifeHack2022_CheapBites/blob/main/photo_snapshots/discount/discount_display.jpg" width="250" />
+  <img src="https://github.com/joncwr99/LifeHack2022_CheapBites/blob/main/photo_snapshots/discount/discount_search.jpg" width="250" />
+</p>
 
 ### Store Location Page
-
+<img src="https://github.com/joncwr99/LifeHack2022_CheapBites/blob/main/photo_snapshots/store_locations/store_location_display.jpg" width="250" />
