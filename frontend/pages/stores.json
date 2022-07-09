@@ -1,0 +1,50 @@
+[
+ { 
+   "ID": 1,
+   "NAME": "CLEMENTI MALL",
+   "ADDRESS": "3155 Commonwealth Avenue West",
+   "POSTAL_CODE": "129588",
+   "LATITUDE": 1.3149,
+   "LONGITUDE": 103.7643
+ },
+ { 
+  "ID": 2,
+  "NAME": "JURONG POINT",
+  "ADDRESS": "1 Jurong West Central 2",
+  "POSTAL_CODE": "648886",
+  "LATITUDE": 1.3397,
+  "LONGITUDE": 103.7067
+ },
+ { 
+  "ID": 3,
+  "NAME": "JEM",
+  "ADDRESS": "50 Jurong Gateway Road",
+  "POSTAL_CODE": "608549",
+  "LATITUDE": 1.3331,
+  "LONGITUDE": 103.7436
+ },
+ { 
+  "ID": 4,
+  "NAME": "WEST MALL",
+  "ADDRESS": "1 Bukit Batok Central Link",
+  "POSTAL_CODE": "658713",
+  "LATITUDE": 1.3501,
+  "LONGITUDE": 103.7492
+ },
+ { 
+  "ID": 5,
+  "NAME": "VIVOCITY",
+  "ADDRESS": "1 HarbourFront Walk",
+  "POSTAL_CODE": "098585",
+  "LATITUDE": 1.2644,
+  "LONGITUDE": 103.8222
+ },
+ { 
+  "ID": 6,
+  "NAME": "IMM",
+  "ADDRESS": "2 Jurong East Street 21",
+  "POSTAL_CODE": "609601",
+  "LATITUDE": 1.3348,
+  "LONGITUDE": 103.7468
+ }
+]
