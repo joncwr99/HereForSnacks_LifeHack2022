@@ -8,6 +8,9 @@ Team members:
 - Madhan Selvapandian
 - Chua Wen Rong Jonathan
 
+## Problem Statement
+In 2019, Singapore generated around 744 million kg of food waste. How can we tackle this growing problem and encourage Singaporeans to cut down on unnecessary food waste?
+
 ## Tagline
 *Get great food deals while fighting food waste!*
 
