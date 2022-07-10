@@ -29,21 +29,26 @@ Our app allows users to source for discounted leftover foods that are sold at di
   <img src="https://github.com/joncwr99/LifeHack2022_CheapBites/blob/main/photo_snapshots/login_register/login_display.jpg" width="250" />
   <img src="https://github.com/joncwr99/LifeHack2022_CheapBites/blob/main/photo_snapshots/login_register/register_display.jpg" width="250" />
 </p>
+Allow users to register and login to the application to access its features.
 
 ### Home Page 
 <p float="right">
   <img src="https://github.com/joncwr99/LifeHack2022_CheapBites/blob/main/photo_snapshots/homepage/homepage_display.jpg" width="250" />
   <img src="https://github.com/joncwr99/LifeHack2022_CheapBites/blob/main/photo_snapshots/homepage/homepage_info.jpg" width="250" />
 </p>
+Displays the user's favourite store as well as a information page to inform users on the importance and purpose of the application. It also displays the total amount that was saved by the user from buying the discounted food items.
 
 ### Discount Page
 <p float="right">
   <img src="https://github.com/joncwr99/LifeHack2022_CheapBites/blob/main/photo_snapshots/discount/discount_display.jpg" width="250" />
   <img src="https://github.com/joncwr99/LifeHack2022_CheapBites/blob/main/photo_snapshots/discount/discount_search.jpg" width="250" />
 </p>
+Displays all of the discounted leftover items that are being sold by various stores, showing the discounted price, collection date and time, amount saved and location of the store.
 
 ### Store Location Page
 <img src="https://github.com/joncwr99/LifeHack2022_CheapBites/blob/main/photo_snapshots/store_locations/store_location_display.jpg" width="250" />
+Displays the location of the stores, clicking on the store location will redirect the user to google maps, which will display the directions to get to the store from their current location.
+
 
 ## How we built it
 The mobile app was developed with Expo. The frontend was built using React Native framework as it allows cross platform development while harnessing the powerful features of React like hooks and React Navigation. It was styled with Tailwind CSS to allow easy standardisation. We used Firebase as the backend for authentication and database services. It provides convenient backend services that allow for quick prototyping.
