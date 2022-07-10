@@ -9,7 +9,7 @@ Team members:
 - Chua Wen Rong Jonathan
 
 ## Tagline
-*Waste not, want not!*
+*Get great food deals while fighting food waste!*
 
 ## Inspiration
 Restaurants and food producers often make more than what is required, leading to an excess amount of food being leftover. These leftovers often go to waste and add to the problem of food wastage in Singapore. We realized that we could hinge on this fact to ease the problem of food wastage in Singapore. 
